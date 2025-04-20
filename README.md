@@ -66,6 +66,7 @@ The bot plays back as Black. The game continues until checkmate or draw. At the 
 - [ ] PGN output
 - [ ] Add option to play as Black or White
 - [ ] Add time control settings (10min, 5min, 1min) with adaptive depth
+- [ ] Get an estimated ELO
 
 ---
 
