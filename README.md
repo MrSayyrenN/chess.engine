@@ -70,6 +70,8 @@ The bot plays back as Black. The game continues until checkmate or draw. At the 
 ---
 
 ## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/a7cf080f-9282-4429-bf49-c2784034c77f)
+
 
 
 ## ✨ Credits
